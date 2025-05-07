@@ -1,5 +1,5 @@
 ---
-title: Aligning AI with Human Values: Classical Moral Theories, Hybrid Frameworks, and the Question of AI Welfare
+title: Aligning AI with Human Values. Classical Moral Theories, Hybrid Frameworks, and the Question of AI Welfare
 date: 2025-05-07 12:00:00 +0500
 categories: [AGI]
 tags: [agi,alignment]     # TAG names should always be lowercase
