@@ -1,0 +1,7 @@
+/* remove avatar container outline */
+.profile-card .photo,
+.profile-card .photo::before {
+  background-color: transparent !important;
+  box-shadow: none          !important;
+  border: none              !important;
+}
