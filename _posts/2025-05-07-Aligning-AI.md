@@ -1,7 +1,6 @@
 ---
 title: >-
-  Aligning AI with Human Values. Classical Moral Theories, Hybrid Frameworks,
-  and the Question of AI Welfare
+  AI Alignment, Moral Reasoning, and AI Welfare
 date: '2025-05-07 12:00:00 +0500'
 categories:
   - AGI
@@ -12,7 +11,7 @@ tags:
 
 ## **Introduction**
 
-The rapid advancement of artificial intelligence – especially the prospect of **artificial general intelligence (AGI)** or **superintelligent AI (ASI)** – raises urgent questions about how to align these powerful systems with human values. The **AI alignment problem** asks: how can we ensure a superhuman intelligence will act in ways that are beneficial and ethical from a human perspective? Solving this problem is not only a technical endeavor but also a profoundly moral one. Researchers must grapple with translating our messy, often contested and inconsistent moral values into a form that a non-human intelligence can understand and follow. This paper explores how classical moral philosophies – **utilitarianism, deontology, and virtue ethics** – apply to AGI alignment, and whether hybrid or novel ethical frameworks can better meet the unique challenges posed by non-human intelligences. It also examines the emerging debate on **AI welfare**: the moral status of AI systems themselves and whether advanced AIs could be “entities” with interests or rights that humans ought to respect. Finally, the paper considers potential frameworks for **human–AI cooperative moral agency**, envisioning how moral reasoning might evolve in a future where humans and AIs jointly negotiate norms and values. Throughout, we draw on relevant philosophical, ethical, and AI alignment literature to provide an intellectually rigorous yet accessible analysis.
+The rapid advancement of artificial intelligence – especially the prospect of **artificial general intelligence (AGI)** or **superintelligent AI (ASI)** – raises urgent questions about how to align these powerful systems with human values. The **AI alignment problem** asks: how can we ensure a superhuman intelligence will act in ways that are beneficial and ethical from a human perspective, particularly through the AGI to ASI transition? Solving this problem is not only a technical endeavor but also a profoundly moral one. Researchers must grapple with translating our messy, often contested and inconsistent moral values into a form that a non-human intelligence can understand and follow. This paper explores how classical moral philosophies – **utilitarianism, deontology, and virtue ethics** – apply to AGI alignment, and whether hybrid or novel ethical frameworks can better meet the unique challenges posed by non-human intelligences. It also examines the emerging debate on **AI welfare**: the moral status of AI systems themselves and whether advanced AIs could be “entities” with interests or rights that humans ought to respect. Finally, the paper considers potential frameworks for **human–AI cooperative moral agency**, envisioning how moral reasoning might evolve in a future where humans and AIs jointly negotiate norms and values. Throughout, we draw on relevant philosophical, ethical, and AI alignment literature to provide an intellectually rigorous yet accessible analysis.
 
 ## **Classical Moral Theories and the AI Alignment Problem**
 
