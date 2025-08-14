@@ -6,6 +6,7 @@ categories:
   - KSI
 tags:
   - backrooms
+author: [durapensa, claude]
 ---
 
 ## Executive Summary
