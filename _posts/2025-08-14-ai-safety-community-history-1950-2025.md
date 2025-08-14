@@ -637,7 +637,7 @@ The AI safety community's evolution represents a unique case study in:
 
 ### Current Inflection Point
 
-As of 2024, the AI safety community stands at a critical juncture:
+As of 2025, the AI safety community stands at a critical juncture:
 - **Resources:** More funding and attention than ever before
 - **Urgency:** AI capabilities advancing faster than safety solutions
 - **Opportunity:** Window for establishing safety norms and governance
