@@ -16,7 +16,7 @@ timezone:
 
 title: durapensa # the main title
 
-tagline: AGI themes - Updated with Ruby 3.4.5 & Jekyll 4.4.1 # it will display as the subtitle
+tagline: AGI themes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Topics in AI alignment and AI welfare
