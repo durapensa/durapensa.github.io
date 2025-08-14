@@ -7,8 +7,6 @@ tags: [AI history, social media, research communities, platform evolution]
 author: [durapensa, claude]
 ---
 
-# The Great Transformation: AI Community Evolution from SL4 to Modern Fragmentation (2003-2024)
-
 ## Bridging the Gap Between Historical and Contemporary AI Communities
 
 **Research Period:** 2003-2024 (21-year transition period)  

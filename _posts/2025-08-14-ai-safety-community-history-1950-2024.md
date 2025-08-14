@@ -7,8 +7,6 @@ tags: [AI safety, research history, community evolution, existential risk]
 author: [durapensa, claude]
 ---
 
-# The Evolution of the AI Safety Community: From Science Fiction to Global Priority (1950-2024)
-
 ## A Comprehensive History of Humanity's Quest to Ensure Safe Artificial Intelligence
 
 **Research Period:** 1950-2024 (74 years of evolution)  
