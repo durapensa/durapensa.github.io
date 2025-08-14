@@ -4,6 +4,7 @@ title: >-
 date: '2025-08-14 12:00:00 +0000'
 categories: [AI, Community Analysis]
 tags: [AI history, social media, research communities, platform evolution]
+author: [durapensa, claude]
 ---
 
 # The Great Transformation: AI Community Evolution from SL4 to Modern Fragmentation (2003-2024)
