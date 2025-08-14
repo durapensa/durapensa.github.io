@@ -1,6 +1,6 @@
 ---
 title: >-
-  The Evolution of the AI Safety Community: From Science Fiction to Global Priority (1950-2024)
+  The Evolution of the AI Safety Community: From Science Fiction to Global Priority (1950-2025)
 date: '2025-08-14 13:00:00 +0000'
 categories: [AI Safety, History]
 tags: [AI safety, research history, community evolution, existential risk]
@@ -9,7 +9,7 @@ author: [durapensa, claude]
 
 ## A Comprehensive History of Humanity's Quest to Ensure Safe Artificial Intelligence
 
-**Research Period:** 1950-2024 (74 years of evolution)  
+**Research Period:** 1950-2025 (75 years of evolution)  
 **Analysis Completed:** January 2025  
 **Scope:** Complete history of AI safety community from philosophical precursors to current mainstream adoption  
 **Central Question:** How did AI safety transform from science fiction speculation to a multi-billion dollar field influencing global policy?
@@ -18,9 +18,9 @@ author: [durapensa, claude]
 
 ## Executive Summary
 
-This report documents the remarkable 74-year evolution of the AI safety community from isolated philosophical speculation to a mainstream field commanding billions in funding, thousands of researchers, and global policy attention. The journey reveals five distinct phases, each building upon previous foundations while fundamentally transforming the community's scale, legitimacy, and influence.
+This report documents the remarkable 75-year evolution of the AI safety community from isolated philosophical speculation to a mainstream field commanding billions in funding, thousands of researchers, and global policy attention. The journey reveals five distinct phases, each building upon previous foundations while fundamentally transforming the community's scale, legitimacy, and influence.
 
-**Key Finding:** The AI safety community underwent a complete transformation from fringe philosophical concern (1950s) to existential priority (2024), driven by a combination of theoretical breakthroughs, institutional building, strategic communication, and catalytic events that made abstract risks tangible.
+**Key Finding:** The AI safety community underwent a complete transformation from fringe philosophical concern (1950s) to existential priority (2025), driven by a combination of theoretical breakthroughs, institutional building, strategic communication, and catalytic events that made abstract risks tangible.
 
 **Critical Insight:** Unlike the broader AI community which grew gradually, the AI safety community experienced sudden "phase transitions" - moments where legitimacy and resources increased by orders of magnitude: MIRI's founding (2000), FHI's establishment (2005), Bostrom's Superintelligence (2014), and ChatGPT's launch (2022).
 
@@ -315,7 +315,7 @@ As documented in our previous research, SL4 served as crucial incubator for AI s
 
 ---
 
-## Phase 5: The Current Explosion (2020-2024)
+## Phase 5: The Current Explosion (2020-2025)
 **"From COVID Acceleration to ChatGPT Revolution"**
 
 ### COVID-19 and Digital Transformation (2020-2022)
@@ -358,7 +358,7 @@ As documented in our previous research, SL4 served as crucial incubator for AI s
 - EU AI Act accelerated with safety provisions
 - Public opinion polls showing majority concern about AI risks
 
-### The Great Expansion (2023-2024)
+### The Great Expansion (2023-2025)
 
 **The Pause Letter and Public Debate (March 2023):**
 - **Future of Life Institute:** 6-month pause letter on training systems beyond GPT-4
@@ -378,7 +378,7 @@ As documented in our previous research, SL4 served as crucial incubator for AI s
 - **Google/Meta:** Massively expanded safety teams
 - **Startup Ecosystem:** 100+ AI safety startups founded
 
-### Current State of the Field (2024)
+### Current State of the Field (2025)
 
 **Resource Explosion:**
 - **Annual Funding:** Exceeding $1 billion globally
@@ -454,7 +454,7 @@ As documented in our previous research, SL4 served as crucial incubator for AI s
 - Major funding from tech philanthropists
 - Technical research showing concrete progress
 
-**4. Public Awakening (2022-2024):**
+**4. Public Awakening (2022-2025):**
 - ChatGPT making AI capabilities tangible
 - Media coverage explosion
 - Regulatory and policy urgency
@@ -486,7 +486,7 @@ As documented in our previous research, SL4 served as crucial incubator for AI s
 - Established research field
 - Public intellectual engagement
 
-**Phase 5 (2020-2024): Global Priority**
+**Phase 5 (2020-2025): Global Priority**
 - Government and international engagement
 - Massive funding and attention
 - Mature technical field
@@ -513,7 +513,7 @@ As documented in our previous research, SL4 served as crucial incubator for AI s
 - **Paul Christiano:** Developed alignment techniques (IDA, debate)
 - **Victoria Krakovna:** Connected safety to mainstream ML research
 
-### The New Generation (2020-2024)
+### The New Generation (2020-2025)
 - **Connor Leahy:** Founded EleutherAI, advocate for pause
 - **Jan Leike:** Superalignment lead at OpenAI (resigned over safety concerns)
 - **Chris Olah:** Mechanistic interpretability pioneer
@@ -665,7 +665,7 @@ As of 2024, the AI safety community stands at a critical juncture:
 
 ### Final Assessment
 
-The AI safety community's 74-year journey from Asimov's fictional laws to billion-dollar research programs and international summits represents one of the most successful examples of a speculative concern becoming a global priority. Whether this transformation came soon enough to prevent the risks it seeks to address remains the defining question of our time.
+The AI safety community's 75-year journey from Asimov's fictional laws to billion-dollar research programs and international summits represents one of the most successful examples of a speculative concern becoming a global priority. Whether this transformation came soon enough to prevent the risks it seeks to address remains the defining question of our time.
 
 The community's evolution demonstrates both the possibility and difficulty of mobilizing resources for prevention rather than response. Its success in achieving mainstream recognition and resources is remarkable; whether this translates to successfully ensuring safe artificial intelligence will determine not just the community's legacy but potentially humanity's future.
 
@@ -675,5 +675,5 @@ The community's evolution demonstrates both the possibility and difficulty of mo
 
 **Research Methodology:** Historical analysis, institutional tracking, citation analysis, funding database review, media coverage analysis  
 **Data Sources:** Academic papers, organizational reports, media coverage, funding announcements, interview transcripts  
-**Coverage:** Complete 74-year period from philosophical precursors (1950) to current state (2024)  
+**Coverage:** Complete 75-year period from philosophical precursors (1950) to current state (2025)  
 **Scope:** Global AI safety community across academia, industry, government, and civil society
